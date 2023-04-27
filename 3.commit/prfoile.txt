@@ -1,2 +1,2 @@
-email :
-gitID :
+email : kjw9684k@gmail.com
+gitID : kjw9684k
